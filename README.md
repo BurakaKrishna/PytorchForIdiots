@@ -21,24 +21,14 @@ Requirements
 Table of contents
 --------------------------
 
-- Matplotlib.ipynb
-- Pandas.ipynb
-- Tensors With Pytorch.ipynb
-- Datasets.ipynb
-- Datasets 2.ipynb
-- Models.ipynb
-- Models 2.ipynb
-- Models 3.ipynb
-- Models 4.ipynb
-- MLP.ipynb
-- MLP2.ipynb
-- MLP 3.ipynb
-- CNN.ipynb
-- CNN 2.ipynb
-- CNN 3.ipynb
-- CNN 4.ipynb
-- RNN.ipynb
-- RNN 2.ipynb
-- CNN-RNN.ipynb
+- Matplotlib            -  How to plot things?
+- Pandas                -  How to read/write the data?
+- Tensors With Pytorch  -  How to learn relations in data?
+- Datasets              -  How to actually work wirh real data?
+- Models                -  How to actually build models from all of this?
+- MLP                   -  How to build/train fully connected models? And what are they anyway?!
+- CNN                   -  How to build/train convolutional models? And what are they anyway?!
+- RNN                   -  How to build/train recurrent models? And what are they anyway?!
+- CNN-RNN               -  How to build/train recurrent that are also convolutional models? Because why not both?
 
 <!-- #endregion -->
